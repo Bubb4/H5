@@ -1,0 +1,2 @@
+{'n_hidden_conv': 2, 'n_hidden': 1, 'learning_rate': 0.00033585335017903887, 'batch_norm': 'True', 'activity_regularizer': 'False', 'average_pooling': 'False', 'max_pooling': 'False', 'kernel_size': 3, 'filters': 40, 'hidden_activation_0': 'tanh', 'dropout_conv_0': 0.003961947355409112, 'padding0': 'same', 'hidden_activation_1': 'sigmoid', 'dropout_conv_1': 0.00424382548197666, 'padding1': 'same', 'units_0': 54, 'dropout_0': 0.5898476271205355, 'batch_size': 96}
+0.9044333457946777
